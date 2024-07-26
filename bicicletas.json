@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "marca": "Fierce",
+        "modelo":"FM18SI29AM211",
+        "rodado":16,
+        "anio": 2019,
+        "color": "Celeste",
+        "pesoKG": 13,
+        "tipo": "Montaniera",
+        "precio": 2400,
+        "vendida": true
+    },
+    {
+        "id": 2,
+        "marca": "Shifter",
+        "modelo":"FM18F29AM210",
+        "rodado":18,
+        "anio": 2020,
+        "color": "Rojo",
+        "pesoKG": 15,
+        "tipo": "Paseo",
+        "precio": 3500,
+        "vendida": false
+    },
+    {
+        "id": 3,
+        "marca": "Olmo",
+        "modelo":"Regal",
+        "rodado":20,
+        "anio": 2021,
+        "color": "Azul",
+        "pesoKG": 16,
+        "tipo": "Retro",
+        "precio": 4000,
+        "vendida": true
+    },
+    {
+        "id": 4,
+        "marca": "Battle",
+        "modelo":"Sunshine",
+        "rodado":22,
+        "anio": 2022,
+        "color": "Amarillo",
+        "pesoKG": 17,
+        "tipo": "Triatolon",
+        "precio": 4500,
+        "vendida": false
+    },
+    {
+        "id": 5,
+        "marca": "TopMega",
+        "modelo":"Techno",
+        "rodado":24,
+        "anio": 2023,
+        "color": "Violeta",
+        "pesoKG": 18,
+        "tipo": "Montañera",
+        "precio": 5000,
+        "vendida": true
+    },
+    {
+        "id": 6,
+        "marca": "SLP",
+        "modelo":"Ruta",
+        "rodado":26,
+        "anio": 2024,
+        "color": "Rosa",
+        "pesoKG": 18,
+        "tipo": "Paseo",
+        "precio": 5000,
+        "vendida": false
+    }
+]
